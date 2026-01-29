@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+drawable art1
+drawable art2
+drawable art3
+drawable banner
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable noise
+mipmap ic_launcher
+mipmap ic_launcher_round
+style Theme.QuietFrame
+style Theme.QuietFrame.Test
+xml dream_service

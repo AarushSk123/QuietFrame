@@ -25,5 +25,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * Special thanks to the open-source community for the libraries used in this project.
 * Thanks to ChatGPT by Open AI for writting the code.
 * Sample Art [National Gallery of Art.](https://www.nga.gov/)
-
-
