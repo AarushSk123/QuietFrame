@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%20TV-purple)](https://www.android.com/intl/en_in/tv/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AarushSk123/QuietFrame/blob/main/LICENSE)
 
-A screensaver for Android devices inspired on Hisense/Samsung Art Mode 
+A Art Mode for Android devices inspired on Hisense/Samsung Art Mode 
 
 ## 🚀 Getting Started
 1. Install the APK on your Android device.
